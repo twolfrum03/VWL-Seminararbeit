@@ -1,0 +1,4 @@
+{"rule":"DE_AGREEMENT","sentence":"^\\QEs können auch mehrere Service Bindings basierend auf einer BSD erstellt werden.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QFiori unterstützt client- und serverseitige Modelle.\\E$"}
+{"rule":"DE_AGREEMENT","sentence":"^\\QDas List Report Layout wird häufig mit dem Object Page Floorplan in einer App kombiniert, wenn es darum geht, mit den einzelnen Objekten in der Liste zu arbeiten.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q[Aufbau eines Business Workflows]Aufbau eines Business Workflows, Abgerufen von \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q am 17.07.2023.\\E$"}
