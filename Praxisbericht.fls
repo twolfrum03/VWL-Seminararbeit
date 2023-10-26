@@ -724,7 +724,6 @@ OUTPUT Inhalt/04_Inhalt/2_Grundlagen.aux
 INPUT ./Inhalt/04_Inhalt/2_Grundlagen.tex
 INPUT ./Inhalt/04_Inhalt/2_Grundlagen.tex
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ts1-lmr12.tfm
 OUTPUT Inhalt/04_Inhalt/3_Praxisteil.aux
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.tex
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.tex
