@@ -582,8 +582,6 @@ INPUT ./Inhalt/04_Inhalt/3_Praxisteil.aux
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.aux
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
-INPUT ./Inhalt/04_Inhalt/5_Anhang.aux
-INPUT ./Inhalt/04_Inhalt/5_Anhang.aux
 OUTPUT Praxisbericht.aux
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
@@ -766,9 +764,6 @@ INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
-OUTPUT Inhalt/04_Inhalt/5_Anhang.aux
-INPUT ./Inhalt/04_Inhalt/5_Anhang.tex
-INPUT ./Inhalt/04_Inhalt/5_Anhang.tex
 INPUT ./Praxisbericht.aux
 INPUT ./Inhalt/01_Standard/titelseite.aux
 INPUT ./Inhalt/01_Standard/titelseite.aux
@@ -786,8 +781,6 @@ INPUT ./Inhalt/04_Inhalt/3_Praxisteil.aux
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.aux
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
-INPUT ./Inhalt/04_Inhalt/5_Anhang.aux
-INPUT ./Inhalt/04_Inhalt/5_Anhang.aux
 INPUT ./Praxisbericht.out
 INPUT ./Praxisbericht.run.xml
 OUTPUT Praxisbericht.run.xml

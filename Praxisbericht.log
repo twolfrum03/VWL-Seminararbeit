@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  1 NOV 2023 22:15
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  1 NOV 2023 22:18
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/repo/Praxisbericht.tex
@@ -1539,7 +1539,7 @@ Package biblatex Warning: Conflicting options.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-(./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/5_Anhang.aux))
+(./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux))
 \openout1 = Praxisbericht.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -1830,7 +1830,6 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 24.
 Package tocbasic Info: Using my definition of `\numberline' on input line 25.
 Package tocbasic Info: Using my definition of `\numberline' on input line 26.
 Package tocbasic Info: Using my definition of `\numberline' on input line 27.
-Package tocbasic Info: Using my definition of `\numberline' on input line 28.
 )
 \tf@toc=\write6
 
@@ -1980,14 +1979,7 @@ Package microtype Info: Character `029' is missing
 
 
 
-]
-\openout2 = Inhalt/04_Inhalt/5_Anhang.aux
- (./Inhalt/04_Inhalt/5_Anhang.tex
-chapter A.
-) [13
-
-
-] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/5_Anhang.aux))
+] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -1999,19 +1991,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52529 strings out of 478285
+ 52475 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 1191 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 18 glue, 5 kern, 1 penalty, 1 margin_kern, 5 glyph, 69 attribute, 118 glue_spec, 36 attribute_list, 4 write, 1 pdf_action nodes
-   avail lists: 2:1920,3:474,4:186,5:605,6:149,7:8837,8:105,9:912,10:25,11:1185
- 70541 multiletter control sequences out of 65536+600000
+ 1173 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 18 glue, 5 kern, 1 penalty, 1 margin_kern, 5 glyph, 65 attribute, 118 glue_spec, 34 attribute_list, 2 write, 1 pdf_action nodes
+   avail lists: 2:1872,3:476,4:178,5:605,6:146,7:8835,8:105,9:912,10:25,11:1185
+ 70519 multiletter control sequences out of 65536+600000
  97 fonts using 6904471 bytes
  113i,20n,112p,10725b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (20 pages, 404075 bytes).
+Output written on Praxisbericht.pdf (19 pages, 403653 bytes).
 
-PDF statistics: 399 PDF objects out of 1000 (max. 8388607)
- 353 compressed objects within 4 object streams
- 73 named destinations out of 1000 (max. 131072)
- 232 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 390 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 71 named destinations out of 1000 (max. 131072)
+ 224 words of extra memory for PDF output out of 10000 (max. 100000000)
 
