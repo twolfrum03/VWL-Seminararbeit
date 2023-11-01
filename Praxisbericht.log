@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  1 NOV 2023 16:04
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  1 NOV 2023 16:24
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/repo/Praxisbericht.tex
@@ -1611,14 +1611,14 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includefoot 
-* h-part:(L,W,R)=(99.58464pt, 426.79141pt, 71.13188pt)
-* v-part:(T,H,B)=(101.40665pt, 686.73479pt, 56.9055pt)
+* h-part:(L,W,R)=(71.13188pt, 455.24417pt, 71.13188pt)
+* v-part:(T,H,B)=(101.40665pt, 708.07436pt, 35.56593pt)
 * \paperwidth=597.50793pt
 * \paperheight=845.04694pt
-* \textwidth=426.79141pt
-* \textheight=651.16885pt
-* \oddsidemargin=27.31465pt
-* \evensidemargin=27.31465pt
+* \textwidth=455.24417pt
+* \textheight=672.50842pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
 * \topmargin=-28.17928pt
 * \headheight=35.56593pt
 * \headsep=21.75pt
@@ -1928,43 +1928,44 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5'
 
 
 
-] [3] [4]) [5]
+] [3]) [4]
 \openout2 = Inhalt/04_Inhalt/3_Praxisteil.aux
  (./Inhalt/04_Inhalt/3_Praxisteil.tex
 chapter 3.
-[6
+[5
 
 
 
 
-] [7] [8]
-Overfull \hbox (38.77644pt too wide) in paragraph at lines 64--81
+] [6]
+Overfull \hbox (10.32368pt too wide) in paragraph at lines 64--81
  [][] 
  []
 
-[9]
+[7]
 Missing character: There is no ü (U+00FC) in font lmmi12!
 Missing character: There is no ü (U+00FC) in font lmmi12!
 Missing character: There is no ö (U+00F6) in font lmmi12!
 Missing character: There is no ö (U+00F6) in font lmmi12!
+[8]
 Missing character: There is no ö (U+00F6) in font lmmi12!
 Missing character: There is no ö (U+00F6) in font lmmi12!
 Missing character: There is no ü (U+00FC) in font lmmi12!
 Missing character: There is no ü (U+00FC) in font lmmi12!
 Missing character: There is no ö (U+00F6) in font lmmi12!
 Missing character: There is no ö (U+00F6) in font lmmi12!
-[10]) [11]
+) [9]
 \openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 chapter 4.
-) [12
+) [10
 
 
 
 
 ]
 chapter without number
-[13
+[11
 
 
 
@@ -1974,7 +1975,7 @@ chapter without number
 \openout2 = Inhalt/04_Inhalt/5_Anhang.aux
  (./Inhalt/04_Inhalt/5_Anhang.tex
 chapter A.
-) [14
+) [12
 
 
 ] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/5_Anhang.aux))
@@ -1989,19 +1990,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52528 strings out of 478285
+ 52527 strings out of 478285
  100000,2373549 words of node,token memory allocated
  1145 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 15 glue, 5 kern, 1 penalty, 1 margin_kern, 5 glyph, 61 attribute, 119 glue_spec, 32 attribute_list, 4 write nodes
-   avail lists: 2:1625,3:375,4:157,5:543,6:119,7:7216,8:43,9:882,10:22,11:943
- 70530 multiletter control sequences out of 65536+600000
+   avail lists: 2:1541,3:375,4:157,5:612,6:118,7:8943,8:43,9:727,10:24,11:1205
+ 70531 multiletter control sequences out of 65536+600000
  98 fonts using 6987951 bytes
  113i,20n,112p,10725b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (21 pages, 369957 bytes).
+Output written on Praxisbericht.pdf (19 pages, 369088 bytes).
 
-PDF statistics: 363 PDF objects out of 1000 (max. 8388607)
- 317 compressed objects within 4 object streams
- 83 named destinations out of 1000 (max. 131072)
+PDF statistics: 353 PDF objects out of 1000 (max. 8388607)
+ 309 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 131072)
  176 words of extra memory for PDF output out of 10000 (max. 100000000)
 
