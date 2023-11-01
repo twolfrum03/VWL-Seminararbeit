@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  13 AUG 2023 16:12
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  1 NOV 2023 12:32
  restricted system commands enabled.
  file:line:error style messages enabled.
-**/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Inhalt/00_Latex/praeambel.tex
-(/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Inhalt/00_Latex/praeambel.tex
+**/Users/I570199/Desktop/repo/Inhalt/00_Latex/praeambel.tex
+(/Users/I570199/Desktop/repo/Inhalt/00_Latex/praeambel.tex
 LaTeX2e <2022-11-01> patch level 1
 Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
 Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
@@ -536,6 +536,8 @@ Package: lineno 2023/01/19 line numbers on paragraphs v5.1
 \bframesep=\dimen173
 \bframebox=\box55
 LaTeX Info: Redefining \\ on input line 3131.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 Package: chngcntr 2018/04/09 v1.1a change counter resetting
 Package chngcntr Info: \counterwithout already defined.
@@ -931,9 +933,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
 Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
- (/usr/local/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
 LaTeX Info: Redefining \dagger on input line 84.
 LaTeX Info: Redefining \ddagger on input line 84.
 LaTeX Info: Redefining \mathparagraph on input line 84.
@@ -1047,7 +1046,7 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
-Package scrhack Info: loading listings hack on input line 111.
+Package scrhack Info: loading listings hack on input line 113.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/listings.hak
 File: listings.hak 2022/10/12 v3.38 KOMA-Script scrhack part (hacking package listings)
 Package tocbasic Info: setting babel extension for `lol' on input line 143.
@@ -1062,10 +1061,10 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: tex)
 
 Enter file name: 
-/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Inhalt/00_Latex/praeambel.tex:112: Emergency stop.
+/Users/I570199/Desktop/repo/Inhalt/00_Latex/praeambel.tex:114: Emergency stop.
 <read *> 
    
-l.112 \input{Inhalt/00_Latex/quellcodeStyle}
+l.114 \input{Inhalt/00_Latex/quellcodeStyle}
                                             % Weitere Details sind ausgelagert
 *** (cannot \read from terminal in nonstop modes)
 
@@ -1078,5 +1077,5 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 2:27,3:3,4:2,6:1,7:28,9:1,11:3
  51058 multiletter control sequences out of 65536+600000
  17 fonts using 888911 bytes
- 108i,1n,100p,10728b,283s stack positions out of 10000i,1000n,20000p,200000b,200000s
-/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Inhalt/00_Latex/praeambel.tex:112:  ==> Fatal error occurred, no output PDF file produced!
+ 108i,1n,100p,10703b,283s stack positions out of 10000i,1000n,20000p,200000b,200000s
+/Users/I570199/Desktop/repo/Inhalt/00_Latex/praeambel.tex:114:  ==> Fatal error occurred, no output PDF file produced!

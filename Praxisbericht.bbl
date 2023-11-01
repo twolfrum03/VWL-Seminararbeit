@@ -16,5 +16,56 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Artikel_orginal}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af928c1f27e35ed8e037659c1f1d1f33}{%
+           family={La{ß}mann},
+           familyi={L\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9fdd3879400881b14a38b81117d699a1}{%
+           family={Schmalenbach-Gesellschaft\bibnamedelimb für\bibnamedelimb Betriebswirtschaft\bibnamedelima e.V.},
+           familyi={S\bibinithyphendelim G\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim e\bibinitperiod},
+           given={Arbeitskreis\bibnamedelimb Internes\bibnamedelima Rechnungswesen},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim R\bibinitperiod},
+           prefix={der},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {Vahlen}%
+      }
+      \strng{namehash}{af928c1f27e35ed8e037659c1f1d1f33}
+      \strng{fullhash}{af928c1f27e35ed8e037659c1f1d1f33}
+      \strng{bibnamehash}{af928c1f27e35ed8e037659c1f1d1f33}
+      \strng{authorbibnamehash}{af928c1f27e35ed8e037659c1f1d1f33}
+      \strng{authornamehash}{af928c1f27e35ed8e037659c1f1d1f33}
+      \strng{authorfullhash}{af928c1f27e35ed8e037659c1f1d1f33}
+      \strng{editorbibnamehash}{9fdd3879400881b14a38b81117d699a1}
+      \strng{editornamehash}{9fdd3879400881b14a38b81117d699a1}
+      \strng{editorfullhash}{9fdd3879400881b14a38b81117d699a1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{journaltitle}{Säulen der Kostenrechnung}
+      \field{title}{Die Kosten- und Erlösrechnung als Instrument der Planung und Kontrolle in Industriebetrieben}
+      \field{year}{2017}
+      \field{pages}{288\bibrangedash 312}
+      \range{pages}{25}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
