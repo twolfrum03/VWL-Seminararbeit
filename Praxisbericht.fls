@@ -689,7 +689,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 OUTPUT Inhalt/01_Standard/erklaerung.aux
 INPUT ./Inhalt/01_Standard/erklaerung.tex
@@ -759,6 +758,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ts1-lmr12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr6.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
 OUTPUT Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex

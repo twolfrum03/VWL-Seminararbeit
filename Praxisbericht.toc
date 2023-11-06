@@ -23,7 +23,7 @@
 \contentsline {section}{\numberline {3.5}Betriebsplankosten- und -erfolgsrechnung}{8}{section.3.5}%
 \contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{10}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Bewertung des Ansatzes}{10}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Reflexion der Arbeit und Ausblick}{11}{section.4.2}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{12}{chapter*.11}%
+\contentsline {section}{\numberline {4.2}Reflexion der Arbeit und Ausblick}{10}{section.4.2}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{11}{chapter*.11}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
