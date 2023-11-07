@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  2 NOV 2023 22:51
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  7 NOV 2023 10:28
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/repo/Praxisbericht.tex
@@ -1828,8 +1828,6 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 22.
 Package tocbasic Info: Using my definition of `\numberline' on input line 23.
 Package tocbasic Info: Using my definition of `\numberline' on input line 24.
 Package tocbasic Info: Using my definition of `\numberline' on input line 25.
-Package tocbasic Info: Using my definition of `\numberline' on input line 26.
-Package tocbasic Info: Using my definition of `\numberline' on input line 27.
 )
 \tf@toc=\write6
 
@@ -1863,26 +1861,18 @@ LaTeX Warning: Hyper reference `acro:BPER' on page IV undefined on input line 11
 
 
 ]
-Package tocbasic Info: character protrusion at lof deactivated on input line 85.
- (./Praxisbericht.lof)
-\tf@lof=\write7
-
-\openout7 = Praxisbericht.lof
- [5
-
-
-
-]
 Package tocbasic Info: character protrusion at lot deactivated on input line 86.
  (./Praxisbericht.lot
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 Package tocbasic Info: Using my definition of `\numberline' on input line 6.
 Package tocbasic Info: Using my definition of `\numberline' on input line 7.
 )
-\tf@lot=\write8
+\tf@lot=\write7
 
-\openout8 = Praxisbericht.lot
- [6
+\openout7 = Praxisbericht.lot
+ [5
+
+
 
 ]
 \openout2 = Inhalt/04_Inhalt/1_Einleitung.aux
@@ -1980,19 +1970,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52478 strings out of 478285
+ 52466 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 1173 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 18 glue, 5 kern, 1 penalty, 1 margin_kern, 5 glyph, 65 attribute, 118 glue_spec, 34 attribute_list, 2 write, 1 pdf_action nodes
-   avail lists: 2:1872,3:476,4:178,5:605,6:146,7:8835,8:105,9:912,10:25,11:1185
- 70523 multiletter control sequences out of 65536+600000
- 99 fonts using 6989591 bytes
- 113i,20n,112p,10725b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (18 pages, 395247 bytes).
+ 1199 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 20 glue, 5 kern, 1 penalty, 1 margin_kern, 5 glyph, 69 attribute, 118 glue_spec, 36 attribute_list, 2 write, 1 pdf_action nodes
+   avail lists: 2:1770,3:500,4:172,5:607,6:143,7:8841,8:105,9:912,10:25,11:1185
+ 70520 multiletter control sequences out of 65536+600000
+ 100 fonts using 7072271 bytes
+ 113i,21n,112p,10725b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Praxisbericht.pdf (17 pages, 397637 bytes).
 
-PDF statistics: 386 PDF objects out of 1000 (max. 8388607)
- 342 compressed objects within 4 object streams
+PDF statistics: 381 PDF objects out of 1000 (max. 8388607)
+ 338 compressed objects within 4 object streams
  70 named destinations out of 1000 (max. 131072)
- 224 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 208 words of extra memory for PDF output out of 10000 (max. 100000000)
 

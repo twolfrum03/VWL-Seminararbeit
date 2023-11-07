@@ -21,8 +21,8 @@
   \datalist[entry]{none/global//global/global}
     \entry{Artikel_orginal}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=af928c1f27e35ed8e037659c1f1d1f33}{%
-           family={La{ß}mann},
+        {{un=0,uniquepart=base,hash=1a57f6bfdb4aac8af5c52b381f07d78f}{%
+           family={Lassmann},
            familyi={L\bibinitperiod},
            given={Gert},
            giveni={G\bibinitperiod},
@@ -43,12 +43,12 @@
       \list{publisher}{1}{%
         {Vahlen}%
       }
-      \strng{namehash}{af928c1f27e35ed8e037659c1f1d1f33}
-      \strng{fullhash}{af928c1f27e35ed8e037659c1f1d1f33}
-      \strng{bibnamehash}{af928c1f27e35ed8e037659c1f1d1f33}
-      \strng{authorbibnamehash}{af928c1f27e35ed8e037659c1f1d1f33}
-      \strng{authornamehash}{af928c1f27e35ed8e037659c1f1d1f33}
-      \strng{authorfullhash}{af928c1f27e35ed8e037659c1f1d1f33}
+      \strng{namehash}{1a57f6bfdb4aac8af5c52b381f07d78f}
+      \strng{fullhash}{1a57f6bfdb4aac8af5c52b381f07d78f}
+      \strng{bibnamehash}{1a57f6bfdb4aac8af5c52b381f07d78f}
+      \strng{authorbibnamehash}{1a57f6bfdb4aac8af5c52b381f07d78f}
+      \strng{authornamehash}{1a57f6bfdb4aac8af5c52b381f07d78f}
+      \strng{authorfullhash}{1a57f6bfdb4aac8af5c52b381f07d78f}
       \strng{editorbibnamehash}{9fdd3879400881b14a38b81117d699a1}
       \strng{editornamehash}{9fdd3879400881b14a38b81117d699a1}
       \strng{editorfullhash}{9fdd3879400881b14a38b81117d699a1}
@@ -151,6 +151,34 @@
       \field{title}{Interdependenzen zwischen Produktionstheorie und der Organisation des Produktionsprozesses}
       \field{volume}{83}
       \field{year}{1980}
+    \endentry
+    \entry{franz2001beitrag}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d141db4434bcbbe8b68f4464506ed789}{%
+           family={Franz},
+           familyi={F\bibinitperiod},
+           given={Klaus-Peter},
+           giveni={K\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d141db4434bcbbe8b68f4464506ed789}
+      \strng{fullhash}{d141db4434bcbbe8b68f4464506ed789}
+      \strng{bibnamehash}{d141db4434bcbbe8b68f4464506ed789}
+      \strng{authorbibnamehash}{d141db4434bcbbe8b68f4464506ed789}
+      \strng{authornamehash}{d141db4434bcbbe8b68f4464506ed789}
+      \strng{authorfullhash}{d141db4434bcbbe8b68f4464506ed789}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rechnungswesen und Planungssysteme--Entwicklung und Ausblick, Arbeitsbericht}
+      \field{number}{86}
+      \field{title}{Der Beitrag von Gert La{ß}mann zur Entwicklung der Kosten- und Erlösrechnung}
+      \field{year}{2001}
+      \field{pages}{22\bibrangedash 42}
+      \range{pages}{21}
     \endentry
   \enddatalist
 \endrefsection

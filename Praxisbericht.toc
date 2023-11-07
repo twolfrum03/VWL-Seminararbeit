@@ -1,7 +1,6 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{Abkürzungsverzeichnis}{IV}{chapter*.5}%
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{V}{chapter*.6}%
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{VI}{chapter*.7}%
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{V}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{2}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Grundlagen der Betriebsplankosten- und -erfolgsrechnung (BPKER)}{2}{section.2.1}%
@@ -23,7 +22,6 @@
 \contentsline {section}{\numberline {3.5}Betriebsplankosten- und -erfolgsrechnung}{8}{section.3.5}%
 \contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{10}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Bewertung des Ansatzes}{10}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Reflexion der Arbeit und Ausblick}{10}{section.4.2}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{11}{chapter*.11}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{11}{chapter*.10}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

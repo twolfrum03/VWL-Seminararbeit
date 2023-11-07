@@ -705,15 +705,13 @@ OUTPUT Praxisbericht.toc
 OUTPUT Inhalt/03_Verzeichnisse/abkuerzungen.aux
 INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.tex
 INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.tex
-INPUT ./Praxisbericht.lof
-INPUT ./Praxisbericht.lof
-OUTPUT Praxisbericht.lof
 INPUT ./Praxisbericht.lot
 INPUT ./Praxisbericht.lot
 OUTPUT Praxisbericht.lot
 OUTPUT Inhalt/04_Inhalt/1_Einleitung.aux
 INPUT ./Inhalt/04_Inhalt/1_Einleitung.tex
 INPUT ./Inhalt/04_Inhalt/1_Einleitung.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmro10.tfm
 OUTPUT Inhalt/04_Inhalt/2_Grundlagen.aux
 INPUT ./Inhalt/04_Inhalt/2_Grundlagen.tex
 INPUT ./Inhalt/04_Inhalt/2_Grundlagen.tex
@@ -797,7 +795,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb

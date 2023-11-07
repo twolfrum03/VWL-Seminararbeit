@@ -2373,6 +2373,8 @@
     <bcf:citekey order="10" intorder="1">openai2022</bcf:citekey>
     <bcf:citekey order="11" intorder="1">kupper1980interdependenzen</bcf:citekey>
     <bcf:citekey order="12" intorder="1">kupper1980interdependenzen</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">franz2001beitrag</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">franz2001beitrag</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
