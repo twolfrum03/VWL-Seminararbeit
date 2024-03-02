@@ -1,26 +1,12 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{Abkürzungsverzeichnis}{IV}{chapter*.5}%
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{V}{chapter*.6}%
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{V}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{2}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Grundlagen der Betriebsplankosten- und -erfolgsrechnung (BPKER)}{2}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Aufbau der BPKER}{2}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Einsatz der BPKER im Unternehmenscontrolling bei Sorten- und Serienfertigung}{3}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Konzeptionelle Unterschiede zwischen BPKER und flexibler Plankostenrechnung}{4}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Ergänzung der periodenbezogenen BPKR durch eine Online-Kennziffernrechnung}{4}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Anwendung auf die HobelKunstwerkstatt GmbH}{5}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Unternehmensporträt}{5}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Betriebs- und Absatzmodell}{5}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Betriebsmodell}{5}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Absatzmodell}{6}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Einflussgrö{\ss }en auf das Betriebs- und Absatzmodell}{6}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Primäre Einflussgrö{\ss }en}{6}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Sekundäre Einflussgrö{\ss }en}{7}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Einflussgrö{\ss }enfunktionen}{7}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Betriebsmodell}{8}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Absatzmodell}{8}{subsection.3.4.2}%
-\contentsline {section}{\numberline {3.5}Betriebsplankosten- und -erfolgsrechnung}{8}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Bewertung des Ansatzes}{10}{chapter.4}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{VI}{chapter*.10}%
+\contentsline {chapter}{\numberline {2}Vergleich der Einkommensverteilungen anhand mehrerer Indikatoren}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}T10/ B50 Einkommensverhältnis}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Gini-Koeffizient}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Bevölkerungsanteil unterhalb der Armutsgrenze}{4}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Fazit/ Schlussbetrachtung}{5}{chapter.3}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{VI}{chapter*.9}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

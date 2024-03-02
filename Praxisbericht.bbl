@@ -19,166 +19,210 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{Artikel_orginal}{article}{}
+    \entry{wir_2022}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1a57f6bfdb4aac8af5c52b381f07d78f}{%
-           family={Lassmann},
-           familyi={L\bibinitperiod},
-           given={Gert},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71b6cb94af454515d2b3ddc7f95d7361}{%
+           family={{World Inequality Lab}},
+           familyi={W\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=9fdd3879400881b14a38b81117d699a1}{%
-           family={Schmalenbach-Gesellschaft\bibnamedelimb für\bibnamedelimb Betriebswirtschaft\bibnamedelima e.V.},
-           familyi={S\bibinithyphendelim G\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim e\bibinitperiod},
-           given={Arbeitskreis\bibnamedelimb Internes\bibnamedelima Rechnungswesen},
-           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim R\bibinitperiod},
-           prefix={der},
-           prefixi={d\bibinitperiod}}}%
+      \list{language}{1}{%
+        {English}%
       }
-      \list{location}{1}{%
-        {München}%
-      }
-      \list{publisher}{1}{%
-        {Vahlen}%
-      }
-      \strng{namehash}{1a57f6bfdb4aac8af5c52b381f07d78f}
-      \strng{fullhash}{1a57f6bfdb4aac8af5c52b381f07d78f}
-      \strng{bibnamehash}{1a57f6bfdb4aac8af5c52b381f07d78f}
-      \strng{authorbibnamehash}{1a57f6bfdb4aac8af5c52b381f07d78f}
-      \strng{authornamehash}{1a57f6bfdb4aac8af5c52b381f07d78f}
-      \strng{authorfullhash}{1a57f6bfdb4aac8af5c52b381f07d78f}
-      \strng{editorbibnamehash}{9fdd3879400881b14a38b81117d699a1}
-      \strng{editornamehash}{9fdd3879400881b14a38b81117d699a1}
-      \strng{editorfullhash}{9fdd3879400881b14a38b81117d699a1}
+      \strng{namehash}{71b6cb94af454515d2b3ddc7f95d7361}
+      \strng{fullhash}{71b6cb94af454515d2b3ddc7f95d7361}
+      \strng{bibnamehash}{71b6cb94af454515d2b3ddc7f95d7361}
+      \strng{authorbibnamehash}{71b6cb94af454515d2b3ddc7f95d7361}
+      \strng{authornamehash}{71b6cb94af454515d2b3ddc7f95d7361}
+      \strng{authorfullhash}{71b6cb94af454515d2b3ddc7f95d7361}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{1}
-      \field{journaltitle}{Säulen der Kostenrechnung}
-      \field{title}{Die Kosten- und Erlösrechnung als Instrument der Planung und Kontrolle in Industriebetrieben}
-      \field{year}{2017}
-      \field{pages}{288\bibrangedash 312}
-      \range{pages}{25}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{💵 global wealth🌍 ecological inequality💰 income inequality since 1820♀ gender inequality 👉 Check it out wir2022.wid.world👥 @WIL\_inequality FACEBOOKThe World \#InequalityReport 2022 presents the most up-to-date \& complete data on inequality worldwide:💵 global wealth🌍 ecological inequality💰 income inequality since 1820♀ gender inequality 👉 Check it out wir2022.wid.world👥 World Inequality Lab - WID.world}
+      \field{journaltitle}{World Inequality Report 2022}
+      \field{shorttitle}{The {World} \#{InequalityReport} 2022 presents the most up-to-date \& complete data on inequality worldwide}
+      \field{title}{The {World} \#{InequalityReport} 2022}
+      \field{urlday}{18}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/I570199/Zotero/storage/UZJQ96VH/download.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb //wir2022.wid.world/download/
+      \endverb
+      \verb{url}
+      \verb //wir2022.wid.world/download/
+      \endverb
     \endentry
-    \entry{noauthor_betriebsplankostenrechnung_2023}{misc}{}
-      \list{language}{1}{%
-        {Deutsch}%
+    \entry{gini_definition_diw_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e368cd197800050582973de292df15a}{%
+           family={Berlin},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi I.\bibnamedelimi W.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \list{language}{1}{%
+        {de}%
+      }
+      \strng{namehash}{0e368cd197800050582973de292df15a}
+      \strng{fullhash}{0e368cd197800050582973de292df15a}
+      \strng{bibnamehash}{0e368cd197800050582973de292df15a}
+      \strng{authorbibnamehash}{0e368cd197800050582973de292df15a}
+      \strng{authornamehash}{0e368cd197800050582973de292df15a}
+      \strng{authorfullhash}{0e368cd197800050582973de292df15a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Der Gini-Koeffizient ist ein statistisches Standardmaß zur Messung der Ungleichheit einer Verteilung. Am häufigsten eingesetzt wird der Koeffizient zur Bestimmung von Einkommens- und Vermögensungleichheit. Er kann Werte zwischen 0 und 1 annehmen. Je höher der Wert, desto stärker ausgeprägt ist die gemessene Ungleichheit. Beispielsweise bedeutet ein Gini-Koeffizient von ...}
+      \field{note}{Publisher: DIW Berlin}
+      \field{shorttitle}{{DIW} {Berlin}}
+      \field{title}{{DIW} {Berlin}: {Gini}-{Koeffizient}}
+      \field{type}{Text}
+      \field{urlday}{18}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/I570199/Zotero/storage/3C6RM8ZB/gini-koeffizient.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.diw.de/de/diw_01.c.413334.de/gini-koeffizient.html
+      \endverb
+      \verb{url}
+      \verb https://www.diw.de/de/diw_01.c.413334.de/gini-koeffizient.html
+      \endverb
+    \endentry
+    \entry{bmas_arb_gini_2020}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c91ac37956d17c006816d7a9c8cec244}{%
+           family={{Bundesministerium für Arbeit und Soziales}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \strng{namehash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{fullhash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{bibnamehash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{authorbibnamehash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{authornamehash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{authorfullhash}{c91ac37956d17c006816d7a9c8cec244}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Das Wirtschaftslexikon}
-      \field{month}{10}
-      \field{title}{Betriebsplankostenrechnung}
-      \field{type}{Online-{Lexikon}}
-      \field{urlday}{30}
-      \field{urlmonth}{10}
-      \field{urlyear}{2023}
+      \field{abstract}{G01 Einkommensverteilung}
+      \field{journaltitle}{www.bmas.de}
+      \field{title}{Armuts- und {Reichtumsbericht} der {Bundesregierung}}
+      \field{urlday}{1}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
       \field{year}{2023}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Betriebsplankostenrechnung - das Wirtschaftslexikon .com:/Users/I570199/Zotero/storage/52MRS6XT/betriebsplankostenrechnung.html:text/html
+      \verb Snapshot:/Users/I570199/Zotero/storage/LAHY4X7K/einkommensverteilung.html:text/html
       \endverb
       \verb{urlraw}
-      \verb http://www.daswirtschaftslexikon.com/d/betriebsplankostenrechnung/betriebsplankostenrechnung.htm#bet70H04
+      \verb https://www.armuts-und-reichtumsbericht.de/DE/Indikatoren/Gesellschaft/Einkommensverteilung/einkommensverteilung.html
       \endverb
       \verb{url}
-      \verb http://www.daswirtschaftslexikon.com/d/betriebsplankostenrechnung/betriebsplankostenrechnung.htm#bet70H04
+      \verb https://www.armuts-und-reichtumsbericht.de/DE/Indikatoren/Gesellschaft/Einkommensverteilung/einkommensverteilung.html
       \endverb
     \endentry
-    \entry{openai2022}{misc}{}
+    \entry{bmas_arb_armutsrisikoquote_2023}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
-           family={OpenAI},
-           familyi={O\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c91ac37956d17c006816d7a9c8cec244}{%
+           family={{Bundesministerium für Arbeit und Soziales}},
+           familyi={B\bibinitperiod}}}%
       }
-      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
-      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
-      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
-      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
-      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
-      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \list{language}{1}{%
+        {de}%
+      }
+      \strng{namehash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{fullhash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{bibnamehash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{authorbibnamehash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{authornamehash}{c91ac37956d17c006816d7a9c8cec244}
+      \strng{authorfullhash}{c91ac37956d17c006816d7a9c8cec244}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Künstliche Intelligenz ChatGPT, Abfrage zu einem Unternehmensporträt für eine Case Study zur BPKER}
-      \field{urlday}{1}
-      \field{urlmonth}{11}
-      \field{urlyear}{2023}
+      \field{abstract}{Armutsrisikoquote}
+      \field{journaltitle}{www.bmas.de}
+      \field{title}{Armuts- und {Reichtumsbericht} der {Bundesregierung} - {Armutsrisikoquote}}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
       \field{year}{2023}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/I570199/Zotero/storage/WEZNMW2V/A01-Indikator-Armutsrisikoquote.html:text/html
+      \endverb
       \verb{urlraw}
-      \verb https://chat.openai.com/
+      \verb https://www.armuts-und-reichtumsbericht.de/DE/Indikatoren/Armut/Armutsrisikoquote/A01-Indikator-Armutsrisikoquote.html
       \endverb
       \verb{url}
-      \verb https://chat.openai.com/
+      \verb https://www.armuts-und-reichtumsbericht.de/DE/Indikatoren/Armut/Armutsrisikoquote/A01-Indikator-Armutsrisikoquote.html
       \endverb
     \endentry
-    \entry{kupper1980interdependenzen}{book}{}
+    \entry{wb_armutsquote_global_2022}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=98b1f9d842d06c19c30359270b814fe1}{%
-           family={Küpper},
-           familyi={K\bibinitperiod},
-           given={Hans-Ulrich},
-           giveni={H\bibinithyphendelim U\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e34f8e39991a692b65cfd5b750bd71bd}{%
+           family={{The World Bank}},
+           familyi={T\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Duncker \& Humblot}%
+      \list{language}{1}{%
+        {en}%
       }
-      \strng{namehash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{fullhash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{bibnamehash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{authorbibnamehash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{authornamehash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{authorfullhash}{98b1f9d842d06c19c30359270b814fe1}
+      \strng{namehash}{e34f8e39991a692b65cfd5b750bd71bd}
+      \strng{fullhash}{e34f8e39991a692b65cfd5b750bd71bd}
+      \strng{bibnamehash}{e34f8e39991a692b65cfd5b750bd71bd}
+      \strng{authorbibnamehash}{e34f8e39991a692b65cfd5b750bd71bd}
+      \strng{authornamehash}{e34f8e39991a692b65cfd5b750bd71bd}
+      \strng{authorfullhash}{e34f8e39991a692b65cfd5b750bd71bd}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Interdependenzen zwischen Produktionstheorie und der Organisation des Produktionsprozesses}
-      \field{volume}{83}
-      \field{year}{1980}
-    \endentry
-    \entry{franz2001beitrag}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d141db4434bcbbe8b68f4464506ed789}{%
-           family={Franz},
-           familyi={F\bibinitperiod},
-           given={Klaus-Peter},
-           giveni={K\bibinithyphendelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{d141db4434bcbbe8b68f4464506ed789}
-      \strng{fullhash}{d141db4434bcbbe8b68f4464506ed789}
-      \strng{bibnamehash}{d141db4434bcbbe8b68f4464506ed789}
-      \strng{authorbibnamehash}{d141db4434bcbbe8b68f4464506ed789}
-      \strng{authornamehash}{d141db4434bcbbe8b68f4464506ed789}
-      \strng{authorfullhash}{d141db4434bcbbe8b68f4464506ed789}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Rechnungswesen und Planungssysteme--Entwicklung und Ausblick, Arbeitsbericht}
-      \field{number}{86}
-      \field{title}{Der Beitrag von Gert La{ß}mann zur Entwicklung der Kosten- und Erlösrechnung}
-      \field{year}{2001}
-      \field{pages}{22\bibrangedash 42}
-      \range{pages}{21}
+      \field{abstract}{Free and open access to global development data}
+      \field{journaltitle}{World Bank Open Data}
+      \field{title}{Poverty headcount ratio at national poverty lines}
+      \field{urlday}{1}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/I570199/Zotero/storage/F2W8NRF6/SI.POV.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://data.worldbank.org
+      \endverb
+      \verb{url}
+      \verb https://data.worldbank.org
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

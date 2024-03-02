@@ -1,6 +1,6 @@
-PWD /Users/I570199/Desktop/repo/Inhalt/00_Latex
+PWD /Users/I570199/Desktop/LaTex-Ausarbeitung/Inhalt/00_Latex
 INPUT /usr/local/texlive/2023/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT /Users/I570199/Desktop/repo/Inhalt/00_Latex/praeambel.tex
+INPUT /Users/I570199/Desktop/LaTex-Ausarbeitung/Inhalt/00_Latex/praeambel.tex
 OUTPUT praeambel.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/ltluatex.lua
