@@ -572,8 +572,6 @@ INPUT ./Inhalt/01_Standard/erklaerung.aux
 INPUT ./Inhalt/01_Standard/erklaerung.aux
 INPUT ./Inhalt/01_Standard/geschlechtsneutral.aux
 INPUT ./Inhalt/01_Standard/geschlechtsneutral.aux
-INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.aux
-INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.aux
 INPUT ./Inhalt/04_Inhalt/1_Einleitung.aux
 INPUT ./Inhalt/04_Inhalt/1_Einleitung.aux
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.aux
@@ -700,9 +698,6 @@ INPUT ./Inhalt/01_Standard/geschlechtsneutral.tex
 INPUT ./Praxisbericht.toc
 INPUT ./Praxisbericht.toc
 OUTPUT Praxisbericht.toc
-OUTPUT Inhalt/03_Verzeichnisse/abkuerzungen.aux
-INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.tex
-INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.tex
 INPUT ./Praxisbericht.lof
 INPUT ./Praxisbericht.lof
 OUTPUT Praxisbericht.lof
@@ -746,9 +741,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD10.t
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD5.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr7.tfm
-INPUT ./Bilder/T10B50-Ratio.png
-INPUT ./Bilder/T10B50-Ratio.png
-INPUT ./Bilder/T10B50-Ratio.png
+INPUT ./Bilder/T10:B50-Ratio2.png
+INPUT ./Bilder/T10:B50-Ratio2.png
+INPUT ./Bilder/T10:B50-Ratio2.png
 INPUT ./Bilder/Gini-Koeffizient2.png
 INPUT ./Bilder/Gini-Koeffizient2.png
 INPUT ./Bilder/Gini-Koeffizient2.png
@@ -767,8 +762,6 @@ INPUT ./Inhalt/01_Standard/erklaerung.aux
 INPUT ./Inhalt/01_Standard/erklaerung.aux
 INPUT ./Inhalt/01_Standard/geschlechtsneutral.aux
 INPUT ./Inhalt/01_Standard/geschlechtsneutral.aux
-INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.aux
-INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.aux
 INPUT ./Inhalt/04_Inhalt/1_Einleitung.aux
 INPUT ./Inhalt/04_Inhalt/1_Einleitung.aux
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.aux
