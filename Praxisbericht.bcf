@@ -2371,6 +2371,10 @@
     <bcf:citekey order="8" intorder="1">bmas_arb_gini_2020</bcf:citekey>
     <bcf:citekey order="9" intorder="1">bmas_arb_armutsrisikoquote_2023</bcf:citekey>
     <bcf:citekey order="10" intorder="1">wb_armutsquote_global_2022</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">wb_armutsquote_global_2022</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">bmas_arb_armutsrisikoquote_2023</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">wb_armutsquote_global_2022</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">bmas_arb_armutsrisikoquote_2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

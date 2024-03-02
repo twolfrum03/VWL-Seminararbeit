@@ -749,9 +749,12 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr7.tfm
 INPUT ./Bilder/T10B50-Ratio.png
 INPUT ./Bilder/T10B50-Ratio.png
 INPUT ./Bilder/T10B50-Ratio.png
-INPUT ./Bilder/Gini-Koeffizient.png
-INPUT ./Bilder/Gini-Koeffizient.png
-INPUT ./Bilder/Gini-Koeffizient.png
+INPUT ./Bilder/Gini-Koeffizient2.png
+INPUT ./Bilder/Gini-Koeffizient2.png
+INPUT ./Bilder/Gini-Koeffizient2.png
+INPUT ./Bilder/Armutsgrenze2.png
+INPUT ./Bilder/Armutsgrenze2.png
+INPUT ./Bilder/Armutsgrenze2.png
 OUTPUT Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex

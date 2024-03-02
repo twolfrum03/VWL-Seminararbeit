@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  2 MAR 2024 17:45
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  2 MAR 2024 18:10
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTex-Ausarbeitung/Praxisbericht.tex
@@ -1543,6 +1543,9 @@ Package csquotes Info: ... found 'babel' package.
 
 LaTeX Warning: Label `fig:iso_norm' multiply defined.
 
+
+LaTeX Warning: Label `fig:iso_norm' multiply defined.
+
 ) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux))
 \openout1 = Praxisbericht.aux
 
@@ -1842,6 +1845,7 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 85.
  (./Praxisbericht.lof
 Package tocbasic Info: Using my definition of `\numberline' on input line 4.
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
+Package tocbasic Info: Using my definition of `\numberline' on input line 6.
 )
 \tf@lof=\write7
 
@@ -1895,7 +1899,7 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/7'
 (microtype)             (new value: 7.0pt) on input line 6.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5'
 (microtype)             (new value: 5.0pt) on input line 6.
-<Bilder/T10B50-Ratio.png, id=86, 1717.41624pt x 937.5025pt>
+<Bilder/T10B50-Ratio.png, id=89, 1717.41624pt x 937.5025pt>
 File: Bilder/T10B50-Ratio.png Graphic file (type png)
 <use Bilder/T10B50-Ratio.png>
 Package luatex.def Info: Bilder/T10B50-Ratio.png  used on input line 10.
@@ -1906,16 +1910,22 @@ Package luatex.def Info: Bilder/T10B50-Ratio.png  used on input line 10.
 
 
 ]
-<Bilder/Gini-Koeffizient.png, id=101, 1706.375pt x 1001.7425pt>
-File: Bilder/Gini-Koeffizient.png Graphic file (type png)
-<use Bilder/Gini-Koeffizient.png>
-Package luatex.def Info: Bilder/Gini-Koeffizient.png  used on input line 21.
-(luatex.def)             Requested size: 411.95982pt x 241.84842pt.
- [3<./Bilder/T10B50-Ratio.png>]) [4<./Bilder/Gini-Koeffizient.png>]
+<Bilder/Gini-Koeffizient2.png, id=104, 1880.02374pt x 1004.75375pt>
+File: Bilder/Gini-Koeffizient2.png Graphic file (type png)
+<use Bilder/Gini-Koeffizient2.png>
+Package luatex.def Info: Bilder/Gini-Koeffizient2.png  used on input line 21.
+(luatex.def)             Requested size: 425.88446pt x 227.62204pt.
+ [3<./Bilder/T10B50-Ratio.png>]
+<Bilder/Armutsgrenze2.png, id=121, 2200.22pt x 1016.79875pt>
+File: Bilder/Armutsgrenze2.png Graphic file (type png)
+<use Bilder/Armutsgrenze2.png>
+Package luatex.def Info: Bilder/Armutsgrenze2.png  used on input line 32.
+(luatex.def)             Requested size: 424.79425pt x 196.32384pt.
+ [4<./Bilder/Gini-Koeffizient2.png>]) [5<./Bilder/Armutsgrenze2.png>]
 \openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 chapter 3.
-) [5
+) [6
 
 
 
@@ -1951,19 +1961,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52344 strings out of 478285
+ 52358 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 959 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 8 glue, 4 kern, 2 glyph, 31 attribute, 118 glue_spec, 17 attribute_list, 2 write, 2 pdf_action nodes
-   avail lists: 2:1216,3:953,4:106,5:396,6:98,7:3939,8:118,9:440,10:21,11:363
- 70451 multiletter control sequences out of 65536+600000
+ 971 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 8 glue, 4 kern, 2 glyph, 33 attribute, 118 glue_spec, 18 attribute_list, 2 write, 3 pdf_action nodes
+   avail lists: 2:1234,3:957,4:106,5:396,6:99,7:3951,8:118,9:469,10:21,11:364
+ 70457 multiletter control sequences out of 65536+600000
  92 fonts using 6551127 bytes
  113i,20n,112p,10739b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (12 pages, 414067 bytes).
+Output written on Praxisbericht.pdf (13 pages, 483978 bytes).
 
-PDF statistics: 226 PDF objects out of 1000 (max. 8388607)
- 188 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 131072)
+PDF statistics: 242 PDF objects out of 1000 (max. 8388607)
+ 199 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 131072)
  88 words of extra memory for PDF output out of 10000 (max. 100000000)
 
