@@ -741,9 +741,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD10.t
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD5.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr7.tfm
-INPUT ./Bilder/T10:B50-Ratio2.png
-INPUT ./Bilder/T10:B50-Ratio2.png
-INPUT ./Bilder/T10:B50-Ratio2.png
+INPUT ./Bilder/T10B50-Ratio3.png
+INPUT ./Bilder/T10B50-Ratio3.png
+INPUT ./Bilder/T10B50-Ratio3.png
 INPUT ./Bilder/Gini-Koeffizient2.png
 INPUT ./Bilder/Gini-Koeffizient2.png
 INPUT ./Bilder/Gini-Koeffizient2.png
