@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  2 MAR 2024 21:46
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  6 MAR 2024 13:40
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTex-Ausarbeitung/Praxisbericht.tex
@@ -1894,23 +1894,23 @@ Package luatex.def Info: Bilder/T10B50-Ratio3.png  used on input line 10.
 
 
 
-]
-<Bilder/Gini-Koeffizient2.png, id=97, 1880.02374pt x 1004.75375pt>
+] [3<./Bilder/T10B50-Ratio3.png>]
+<Bilder/Gini-Koeffizient2.png, id=114, 1880.02374pt x 1004.75375pt>
 File: Bilder/Gini-Koeffizient2.png Graphic file (type png)
 <use Bilder/Gini-Koeffizient2.png>
-Package luatex.def Info: Bilder/Gini-Koeffizient2.png  used on input line 23.
+Package luatex.def Info: Bilder/Gini-Koeffizient2.png  used on input line 27.
 (luatex.def)             Requested size: 425.88446pt x 227.62204pt.
- [3<./Bilder/T10B50-Ratio3.png>]
-<Bilder/Armutsgrenze2.png, id=114, 2200.22pt x 1016.79875pt>
+ [4]
+<Bilder/Armutsgrenze2.png, id=132, 2200.22pt x 1016.79875pt>
 File: Bilder/Armutsgrenze2.png Graphic file (type png)
 <use Bilder/Armutsgrenze2.png>
-Package luatex.def Info: Bilder/Armutsgrenze2.png  used on input line 34.
+Package luatex.def Info: Bilder/Armutsgrenze2.png  used on input line 38.
 (luatex.def)             Requested size: 424.79425pt x 196.32384pt.
- [4<./Bilder/Gini-Koeffizient2.png>]) [5<./Bilder/Armutsgrenze2.png>]
+ [5<./Bilder/Gini-Koeffizient2.png>]) [6<./Bilder/Armutsgrenze2.png>]
 \openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 chapter 3.
-) [6
+) [7
 
 
 
@@ -1943,19 +1943,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52300 strings out of 478285
+ 52312 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 971 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 8 glue, 4 kern, 2 glyph, 33 attribute, 118 glue_spec, 18 attribute_list, 2 write, 3 pdf_action nodes
-   avail lists: 2:1234,3:957,4:99,5:396,6:96,7:3949,8:118,9:469,10:21,11:360
- 70432 multiletter control sequences out of 65536+600000
+ 1035 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 12 glue, 4 kern, 2 glyph, 43 attribute, 118 glue_spec, 23 attribute_list, 2 write, 4 pdf_action nodes
+   avail lists: 2:1408,3:1075,4:113,5:464,6:101,7:4909,8:118,9:484,10:27,11:458
+ 70438 multiletter control sequences out of 65536+600000
  92 fonts using 6551127 bytes
- 113i,20n,112p,10739b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,21n,112p,10739b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (12 pages, 475182 bytes).
+Output written on Praxisbericht.pdf (13 pages, 485735 bytes).
 
-PDF statistics: 232 PDF objects out of 1000 (max. 8388607)
- 190 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 131072)
+PDF statistics: 254 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 42 named destinations out of 1000 (max. 131072)
  80 words of extra memory for PDF output out of 10000 (max. 100000000)
 
