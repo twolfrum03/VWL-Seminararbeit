@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  7 MAR 2024 02:29
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  7 MAR 2024 12:11
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTex-Ausarbeitung/Praxisbericht.tex
@@ -1618,15 +1618,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(99.58464pt, 426.79141pt, 71.13188pt)
-* v-part:(T,H,B)=(35.56593pt, 773.91507pt, 35.56593pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69693pt, 56.9055pt)
+* v-part:(T,H,B)=(31.2982pt, 782.45053pt, 31.2982pt)
 * \paperwidth=597.50793pt
 * \paperheight=845.04694pt
-* \textwidth=426.79141pt
-* \textheight=684.6582pt
-* \oddsidemargin=27.31465pt
-* \evensidemargin=27.31465pt
-* \topmargin=-36.70406pt
+* \textwidth=483.69693pt
+* \textheight=693.19366pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-40.97179pt
 * \headheight=18.125pt
 * \headsep=35.56593pt
 * \topskip=12.0pt
@@ -1882,7 +1882,7 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/7'
 (microtype)             (new value: 7.0pt) on input line 13.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5'
 (microtype)             (new value: 5.0pt) on input line 13.
-<Bilder/T10B50-Ratio3.png, id=83, 1802.735pt x 1067.99pt>
+<Bilder/T10B50-Ratio3.png, id=82, 1802.735pt x 1067.99pt>
 File: Bilder/T10B50-Ratio3.png Graphic file (type png)
 <use Bilder/T10B50-Ratio3.png>
 Package luatex.def Info: Bilder/T10B50-Ratio3.png  used on input line 17.
@@ -1893,13 +1893,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [2
 
 ] [3<./Bilder/T10B50-Ratio3.png>]
-<Bilder/Gini-Koeffizient2.png, id=118, 1880.02374pt x 1004.75375pt>
+<Bilder/Gini-Koeffizient2.png, id=117, 1880.02374pt x 1004.75375pt>
 File: Bilder/Gini-Koeffizient2.png Graphic file (type png)
 <use Bilder/Gini-Koeffizient2.png>
 Package luatex.def Info: Bilder/Gini-Koeffizient2.png  used on input line 34.
 (luatex.def)             Requested size: 425.88446pt x 227.62204pt.
  [4<./Bilder/Gini-Koeffizient2.png>]
-<Bilder/Armutsgrenze2.png, id=142, 2200.22pt x 1016.79875pt>
+<Bilder/Armutsgrenze2.png, id=141, 2200.22pt x 1016.79875pt>
 File: Bilder/Armutsgrenze2.png Graphic file (type png)
 <use Bilder/Armutsgrenze2.png>
 Package luatex.def Info: Bilder/Armutsgrenze2.png  used on input line 51.
@@ -1908,20 +1908,15 @@ Package luatex.def Info: Bilder/Armutsgrenze2.png  used on input line 51.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] [6<./Bilder/Armutsgrenze2.png>] [7]
+[5] [6<./Bilder/Armutsgrenze2.png>]
 chapter 3.
-) [8
+) [7
 
 ]
 chapter without number
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Overfull \hbox (0.13109pt too wide) in paragraph at lines 126--126
-\T1/lmr/m/n/12 DE / Indikatoren / Gesellschaft / Einkommensverteilung / einkommensverteilung .
- []
-
 [5
 
 
@@ -1940,19 +1935,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52228 strings out of 478285
+ 52227 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 1230 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 24 glue, 4 kern, 1 penalty, 4 glyph, 67 attribute, 117 glue_spec, 35 attribute_list, 2 write, 6 pdf_action nodes
-   avail lists: 2:1732,3:1309,4:139,5:562,6:122,7:7751,8:118,9:559,10:27,11:762
+ 1194 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 24 glue, 4 kern, 1 penalty, 4 glyph, 61 attribute, 117 glue_spec, 32 attribute_list, 2 write, 3 pdf_action nodes
+   avail lists: 2:1738,3:1305,4:137,5:562,6:124,7:8496,8:118,9:605,10:30,11:863
  70405 multiletter control sequences out of 65536+600000
  92 fonts using 6551127 bytes
- 113i,20n,112p,10739b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (14 pages, 516010 bytes).
+ 113i,21n,112p,10739b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Praxisbericht.pdf (13 pages, 515964 bytes).
 
-PDF statistics: 290 PDF objects out of 1000 (max. 8388607)
- 244 compressed objects within 3 object streams
- 51 named destinations out of 1000 (max. 131072)
+PDF statistics: 281 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
+ 50 named destinations out of 1000 (max. 131072)
  80 words of extra memory for PDF output out of 10000 (max. 100000000)
 
