@@ -202,6 +202,70 @@
       \verb https://www.armuts-und-reichtumsbericht.de/DE/Indikatoren/Gesellschaft/Einkommensverteilung/einkommensverteilung.html
       \endverb
     \endentry
+    \entry{horn_wirtschaftskrise_2014}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d9f9ab96e3111170ae894c7be3500396}{%
+           family={Horn},
+           familyi={H\bibinitperiod},
+           given={Gustav\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e619e38ba65a8ce3739b3caa2db083a}{%
+           family={Gechert},
+           familyi={G\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=837aef6af05b15bb34fe22d8ec660bdd}{%
+           family={Rehm},
+           familyi={R\bibinitperiod},
+           given={Miriam},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8363a4029eaa0da2e3211153e1848065}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={Kai\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {IMK Report}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \strng{namehash}{95fa20eefcd3737892f5799ebf28594b}
+      \strng{fullhash}{fb2a72ed8333210fce1b289408517e76}
+      \strng{bibnamehash}{95fa20eefcd3737892f5799ebf28594b}
+      \strng{authorbibnamehash}{95fa20eefcd3737892f5799ebf28594b}
+      \strng{authornamehash}{95fa20eefcd3737892f5799ebf28594b}
+      \strng{authorfullhash}{fb2a72ed8333210fce1b289408517e76}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Der Report analysiert die Auswirkungen der globalen Wirtschaftskrise auf die Entwicklung der Einkommensungleichheit in Deutschland anhand der Ungleichheitsbeiträge verschiedener Komponenten der Haushaltsmarkteinkommen. Zwei gängige Thesen werden dabei hinterfragt: Erstens sei Ende der 2000er Jahre ein Ende des Trends steigender Einkommensungleichheit festzustellen. Zweitens sei diese Entwicklung insbesondere der günstigen Arbeitsmarktentwicklung im selben Zeitraum zu verdanken. Eine Zerlegung der Beiträge zur Ungleichheit zeigt jedoch, dass die gebremste Ungleichheitsentwicklung insbesondere auf Veränderungen der Verteilung der Kapitaleinkommen zurückführen ist, da letztere in der Krise besonders stark eingebrochen sind. Dagegen haben die Erwerbseinkommen die Ungleichheit im gleichen Zeitraum sogar erhöht. Nach der Krise haben die Unternehmens- und Vermögenseinkommen wieder überproportional hinzugewonnen. Der Trend zu steigender Ungleichheit scheint daher nur kurz unterbrochen worden zu sein.}
+      \field{number}{97}
+      \field{title}{Wirtschaftskrise unterbricht {Anstieg} der {Ungleichheit}}
+      \field{type}{Research {Report}}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/Users/I570199/Zotero/storage/KQVMSCWN/Horn et al. - 2014 - Wirtschaftskrise unterbricht Anstieg der Ungleichh.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.econstor.eu/handle/10419/106121
+      \endverb
+      \verb{url}
+      \verb https://www.econstor.eu/handle/10419/106121
+      \endverb
+    \endentry
     \entry{bmas_arb_armutsrisikoquote_2023}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c91ac37956d17c006816d7a9c8cec244}{%
@@ -280,6 +344,66 @@
       \endverb
       \verb{url}
       \verb https://data.worldbank.org
+      \endverb
+    \endentry
+    \entry{kholodilin_mietpreisbremse_2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8e6d96c798a6a26ac8c71047e14c65a0}{%
+           family={Kholodilin},
+           familyi={K\bibinitperiod},
+           given={Konstantin\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f15729093ee0ce02d78e4d83dc485b7}{%
+           family={Mense},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8348a370a95e27bd0933b07fe5233c88}{%
+           family={Michelsen},
+           familyi={M\bibinitperiod},
+           given={Claus},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \strng{namehash}{5ad99c8e7bd7ea99b85e430f81e6978a}
+      \strng{fullhash}{5ad99c8e7bd7ea99b85e430f81e6978a}
+      \strng{bibnamehash}{5ad99c8e7bd7ea99b85e430f81e6978a}
+      \strng{authorbibnamehash}{5ad99c8e7bd7ea99b85e430f81e6978a}
+      \strng{authornamehash}{5ad99c8e7bd7ea99b85e430f81e6978a}
+      \strng{authorfullhash}{5ad99c8e7bd7ea99b85e430f81e6978a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Am 1. Juni 2016 ist die viel diskutierte Mietpreisbremse ein Jahr in Kraft. Seither wurde sie in 308 Städten eingeführt. Die im Vorfeld geäu{ß}erten Befürchtungen, die dringend benötigte Bautätigkeit würde damit massiv ausgebremst, haben sich ebenso wenig bewahrheitet wie die Hoffnungen, die Neuregelung könne den Zugang von GeringverdienerInnen zum Wohnungsmarkt spürbar verbessern. Um die Wirkung der Mietregulierung zu beurteilen, reicht der alleinige Blick auf einzelne statistische Reihen allerdings nicht aus. Die vorliegende Studie untersucht deshalb, wie sich die Mieten verändert hätten, wenn keine Regulierung vorgenommen worden wäre und in welchem Umfang die Investoren ihre Ertragserwartungen durch die Regulierung beeinträchtigt sehen. Dazu werden Mieten und Wohnungspreise in benachbarten Postleitzahlbezirken analysiert, die sich darin unterscheiden, dass in einem Bezirk die Mietpreisbremse eingeführt wurde, während in dem anderen Bezirk der Markt unreguliert blieb. Die Ergebnisse dieses sogenannten Difference-in-Differences-Ansatzes legen nahe, dass die Mietpreisbremse den Anstieg der Mietpreise nicht entschleunigen konnte. Im Gegenteil: Sie hat kurzfristig sogar zu einem stärkeren Mietpreisanstieg in regulierten Märkten geführt. Auch scheinen Investoren der Auffassung zu sein, dass die Regulierung auch in Zukunft keine substanzielle Wirkung entfaltet: Die kausalen Effekte der Mietpreisbremse auf die Entwicklung der Wohnungspreise - als Reflektion zukünftiger Erträge aus der Vermietung - sind relativ gering. Um das Problem der Wohnungsknappheit nachhaltig zu lösen, sollten Ma{ß}nahmen im Vordergrund stehen, die eine Ausweitung der Bautätigkeit und eine Flexibilisierung des Wohnungsangebots ermöglichen. Aus sozialpolitischen Gesichtspunkten kann eine Mietpreisbremse temporär dennoch gerechtfertigt sein. Allerdings muss sie so gestaltet werden, dass sie die Anreize für den Wohnungsbau nicht beschneidet.}
+      \field{issn}{1860-8787}
+      \field{journaltitle}{DIW Wochenbericht}
+      \field{note}{Publisher: Berlin: Deutsches Institut für Wirtschaftsforschung (DIW)}
+      \field{number}{22}
+      \field{title}{Die {Mietpreisbremse} wirkt bisher nicht}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{83}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{491\bibrangedash 499}
+      \range{pages}{9}
+      \verb{file}
+      \verb Full Text PDF:/Users/I570199/Zotero/storage/NNSQJBRS/Kholodilin et al. - 2016 - Die Mietpreisbremse wirkt bisher nicht.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.econstor.eu/handle/10419/141663
+      \endverb
+      \verb{url}
+      \verb https://www.econstor.eu/handle/10419/141663
       \endverb
     \endentry
   \enddatalist
