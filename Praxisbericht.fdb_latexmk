@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Praxisbericht"] 1709772594 "Praxisbericht.bcf" "Praxisbericht.bbl" "Praxisbericht" 1709809924 0
+["biber Praxisbericht"] 1709772594 "Praxisbericht.bcf" "Praxisbericht.bbl" "Praxisbericht" 1710349189 0
   "./Inhalt/literatur.bib" 1709771330 10608 96003a78d937413735e65109f73880c8 ""
-  "Praxisbericht.bcf" 1709809924 108634 efe979cac700a6920176719d262790cf "lualatex"
+  "Praxisbericht.bcf" 1710349189 108634 efe979cac700a6920176719d262790cf "lualatex"
   (generated)
   "Praxisbericht.bbl"
   "Praxisbericht.blg"
   (rewritten before read)
-["lualatex"] 1709809919 "/Users/I570199/Desktop/LaTex-Ausarbeitung/Praxisbericht.tex" "Praxisbericht.pdf" "Praxisbericht" 1709809924 0
+["lualatex"] 1710349185 "/Users/I570199/Desktop/LaTex-Ausarbeitung/Praxisbericht.tex" "Praxisbericht.pdf" "Praxisbericht" 1710349189 0
   "/Users/I570199/Desktop/LaTex-Ausarbeitung/Praxisbericht.tex" 1709774669 5243 4a539f66a0f018a32f2583e49460f546 ""
   "/Users/I570199/Library/texlive/2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc" 1686569008 127670 710f0772a5cfcd2e057ee46ebf6eb610 ""
   "/Users/I570199/Library/texlive/2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1686569008 369018 0691a416ac2911e592a1b8e2e7f21c8b ""
@@ -383,21 +383,21 @@
   "Inhalt/00_Latex/kopfundFusszeile.tex" 1699347374 1229 35b9bd881d5fb603f59ab192daa2891b ""
   "Inhalt/00_Latex/praeambel.tex" 1709809895 7246 a84322dfee4ac4050f0c431b9228aae7 ""
   "Inhalt/00_Latex/quellcodeStyle.tex" 1698324567 5167 57de1d22b250e8b98d7fa613e6b5f46f ""
-  "Inhalt/01_Standard/erklaerung.aux" 1709809923 5019 e32b5317350930810f59fd029f0eb224 "lualatex"
+  "Inhalt/01_Standard/erklaerung.aux" 1710349188 5019 e32b5317350930810f59fd029f0eb224 "lualatex"
   "Inhalt/01_Standard/erklaerung.tex" 1698865039 453 1f34bdf088f54cc77c154ca23fc99b20 ""
-  "Inhalt/01_Standard/geschlechtsneutral.aux" 1709809923 5027 963523268424c6b745f5f91c9692d125 "lualatex"
+  "Inhalt/01_Standard/geschlechtsneutral.aux" 1710349188 5027 963523268424c6b745f5f91c9692d125 "lualatex"
   "Inhalt/01_Standard/geschlechtsneutral.tex" 1698324567 280 3766d64c7ff03bc1d1f082ca920a440b ""
-  "Inhalt/01_Standard/titelseite.aux" 1709809923 4994 bf84e85a4614d5485e6427de7001d2e5 "lualatex"
+  "Inhalt/01_Standard/titelseite.aux" 1710349188 4994 bf84e85a4614d5485e6427de7001d2e5 "lualatex"
   "Inhalt/01_Standard/titelseite.tex" 1708275537 1804 eb6c6a8a361a35d56cf2c4b07c17bdb4 ""
-  "Inhalt/04_Inhalt/3_Praxisteil.aux" 1709809924 7229 66c27e872800b33e33c67b1bf5933247 "lualatex"
-  "Inhalt/04_Inhalt/3_Praxisteil.tex" 1709809911 14637 0dccf844b52353ba5b261bcdc28574eb ""
-  "Praxisbericht.aux" 1709809924 8905 6375a79dd43273cb3d92f47e9702f098 "lualatex"
+  "Inhalt/04_Inhalt/3_Praxisteil.aux" 1710349188 7230 3c129dc0e3b58b2c56aeb4fb8c1a3dfd "lualatex"
+  "Inhalt/04_Inhalt/3_Praxisteil.tex" 1710349184 14734 b2aa0a0c3cfdd02af1e6d40fe87cecd9 ""
+  "Praxisbericht.aux" 1710349189 8915 25c052214a93983a6206df5cd458b9c5 "lualatex"
   "Praxisbericht.bbl" 1709772596 20960 defc8d3ebf1450829d045b701a5e5b1b "biber Praxisbericht"
-  "Praxisbericht.lof" 1709809924 622 7a9410a5120f74132d135ce969f1e2b9 "lualatex"
-  "Praxisbericht.out" 1709809922 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "Praxisbericht.run.xml" 1709809924 2442 07a5764a17fd36ee355e5e14be0ef6d4 "lualatex"
+  "Praxisbericht.lof" 1710349189 622 7a9410a5120f74132d135ce969f1e2b9 "lualatex"
+  "Praxisbericht.out" 1710349187 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "Praxisbericht.run.xml" 1710349189 2442 07a5764a17fd36ee355e5e14be0ef6d4 "lualatex"
   "Praxisbericht.tex" 1709774669 5243 4a539f66a0f018a32f2583e49460f546 ""
-  "Praxisbericht.toc" 1709809924 796 1c8830a571fee2c7e57026a4d60019d3 "lualatex"
+  "Praxisbericht.toc" 1710349189 797 300099a8582d3d03b5cdc215a8ec4d6e "lualatex"
   (generated)
   "Inhalt/01_Standard/erklaerung.aux"
   "Inhalt/01_Standard/geschlechtsneutral.aux"

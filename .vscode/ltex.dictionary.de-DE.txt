@@ -36,3 +36,5 @@ Work
 HobelKunstwerkstatt
 BPKER
 BPER
+Gini-Koeffizient
+Gini-Koeffizienten

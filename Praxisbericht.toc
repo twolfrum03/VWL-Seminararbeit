@@ -1,7 +1,7 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{IV}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Indikatorbasierter Vergleich der Einkommensverteilungen}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Indikator-basierter Vergleich der Einkommensverteilungen}{2}{chapter.2}%
 \contentsline {section}{\numberline {2.1}T10/ B50 Einkommensverhältnis}{2}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Gini-Koeffizient}{4}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Bevölkerungsanteil unterhalb der Armutsgrenze}{5}{section.2.3}%
