@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Praxisbericht.blg'
+[46] biber-darwin:340> INFO - === Thu Mar 14, 2024, 21:07:38
+[90] Biber.pm:419> INFO - Reading 'Praxisbericht.bcf'
+[139] Biber.pm:979> INFO - Found 8 citekeys in bib section 0
+[147] Biber.pm:4419> INFO - Processing section 0
+[167] Biber.pm:4610> INFO - Looking for bibtex file 'Inhalt/literatur.bib' for section 0
+[181] bibtex.pm:1713> INFO - LaTeX decoding ...
+[203] bibtex.pm:1519> INFO - Found BibTeX data source 'Inhalt/literatur.bib'
+[267] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[267] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[267] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[267] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[294] bbl.pm:660> INFO - Writing 'Praxisbericht.bbl' with encoding 'UTF-8'
+[298] bbl.pm:763> INFO - Output to Praxisbericht.bbl

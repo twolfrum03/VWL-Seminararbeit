@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  13 MAR 2024 17:59
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  14 MAR 2024 21:24
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTex-Ausarbeitung/Praxisbericht.tex
@@ -1893,16 +1893,16 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [2
 
 ] [3<./Bilder/T10B50-Ratio3.png>]
-<Bilder/Gini-Koeffizient2.png, id=117, 1880.02374pt x 1004.75375pt>
+<Bilder/Gini-Koeffizient2.png, id=115, 1880.02374pt x 1004.75375pt>
 File: Bilder/Gini-Koeffizient2.png Graphic file (type png)
 <use Bilder/Gini-Koeffizient2.png>
-Package luatex.def Info: Bilder/Gini-Koeffizient2.png  used on input line 34.
+Package luatex.def Info: Bilder/Gini-Koeffizient2.png  used on input line 35.
 (luatex.def)             Requested size: 425.88446pt x 227.62204pt.
  [4<./Bilder/Gini-Koeffizient2.png>]
-<Bilder/Armutsgrenze2.png, id=141, 2200.22pt x 1016.79875pt>
+<Bilder/Armutsgrenze2.png, id=139, 2200.22pt x 1016.79875pt>
 File: Bilder/Armutsgrenze2.png Graphic file (type png)
 <use Bilder/Armutsgrenze2.png>
-Package luatex.def Info: Bilder/Armutsgrenze2.png  used on input line 51.
+Package luatex.def Info: Bilder/Armutsgrenze2.png  used on input line 52.
 (luatex.def)             Requested size: 424.79425pt x 196.32384pt.
 
 
@@ -1935,19 +1935,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52227 strings out of 478285
+ 52226 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 1194 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 24 glue, 4 kern, 1 penalty, 4 glyph, 61 attribute, 117 glue_spec, 32 attribute_list, 2 write, 3 pdf_action nodes
-   avail lists: 2:1738,3:1305,4:137,5:562,6:124,7:8595,8:118,9:605,10:30,11:867
+ 1181 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 23 glue, 4 kern, 1 penalty, 4 glyph, 59 attribute, 117 glue_spec, 31 attribute_list, 2 write, 3 pdf_action nodes
+   avail lists: 2:1738,3:1305,4:137,5:562,6:123,7:7886,8:118,9:569,10:30,11:805
  70405 multiletter control sequences out of 65536+600000
  92 fonts using 6551127 bytes
  113i,21n,112p,10739b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (13 pages, 516367 bytes).
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Praxisbericht.pdf (13 pages, 516015 bytes).
 
-PDF statistics: 281 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
- 50 named destinations out of 1000 (max. 131072)
+PDF statistics: 279 PDF objects out of 1000 (max. 8388607)
+ 234 compressed objects within 3 object streams
+ 49 named destinations out of 1000 (max. 131072)
  80 words of extra memory for PDF output out of 10000 (max. 100000000)
 
