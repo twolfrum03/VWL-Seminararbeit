@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  14 MAR 2024 21:27
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  14 MAR 2024 21:30
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTex-Ausarbeitung/Praxisbericht.tex
@@ -1717,11 +1717,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 \openout2 = Inhalt/01_Standard/titelseite.aux
  (./Inhalt/01_Standard/titelseite.tex
-<Bilder/Logos/Logo_SAP.pdf, id=7, 822.27202pt x 419.166pt>
-File: Bilder/Logos/Logo_SAP.pdf Graphic file (type pdf)
-<use Bilder/Logos/Logo_SAP.pdf>
-Package luatex.def Info: Bilder/Logos/Logo_SAP.pdf  used on input line 10.
-(luatex.def)             Requested size: 139.53345pt x 71.13188pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 11.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1772,7 +1767,7 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/8'
 (microtype)             (new value: 8.0pt) on input line 11.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/6'
 (microtype)             (new value: 6.0pt) on input line 11.
-<Bilder/Logos/Logo_DHBW.pdf, id=8, 822.27202pt x 419.166pt>
+<Bilder/Logos/Logo_DHBW.pdf, id=7, 822.27202pt x 419.166pt>
 File: Bilder/Logos/Logo_DHBW.pdf Graphic file (type pdf)
 <use Bilder/Logos/Logo_DHBW.pdf>
 Package luatex.def Info: Bilder/Logos/Logo_DHBW.pdf  used on input line 15.
@@ -1782,7 +1777,7 @@ Package luatex.def Info: Bilder/Logos/Logo_DHBW.pdf  used on input line 15.
 
 
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./Bilder/Logos/Logo_SAP.pdf><./Bilder/Logos/Logo_DHBW.pdf>])
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./Bilder/Logos/Logo_DHBW.pdf>])
 \c@savepage=\count539
 
 \openout2 = Inhalt/01_Standard/erklaerung.aux
@@ -1875,7 +1870,7 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/7'
 (microtype)             (new value: 7.0pt) on input line 13.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5'
 (microtype)             (new value: 5.0pt) on input line 13.
-<Bilder/T10B50-Ratio3.png, id=82, 1802.735pt x 1067.99pt>
+<Bilder/T10B50-Ratio3.png, id=75, 1802.735pt x 1067.99pt>
 File: Bilder/T10B50-Ratio3.png Graphic file (type png)
 <use Bilder/T10B50-Ratio3.png>
 Package luatex.def Info: Bilder/T10B50-Ratio3.png  used on input line 17.
@@ -1886,13 +1881,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [2
 
 ] [3<./Bilder/T10B50-Ratio3.png>]
-<Bilder/Gini-Koeffizient2.png, id=115, 1880.02374pt x 1004.75375pt>
+<Bilder/Gini-Koeffizient2.png, id=108, 1880.02374pt x 1004.75375pt>
 File: Bilder/Gini-Koeffizient2.png Graphic file (type png)
 <use Bilder/Gini-Koeffizient2.png>
 Package luatex.def Info: Bilder/Gini-Koeffizient2.png  used on input line 34.
 (luatex.def)             Requested size: 425.88446pt x 227.62204pt.
  [4<./Bilder/Gini-Koeffizient2.png>]
-<Bilder/Armutsgrenze2.png, id=139, 2200.22pt x 1016.79875pt>
+<Bilder/Armutsgrenze2.png, id=132, 2200.22pt x 1016.79875pt>
 File: Bilder/Armutsgrenze2.png Graphic file (type png)
 <use Bilder/Armutsgrenze2.png>
 Package luatex.def Info: Bilder/Armutsgrenze2.png  used on input line 51.
@@ -1925,19 +1920,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52228 strings out of 478285
+ 52216 strings out of 478285
  100000,2373549 words of node,token memory allocated
  1181 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 23 glue, 4 kern, 1 penalty, 4 glyph, 59 attribute, 117 glue_spec, 31 attribute_list, 2 write, 3 pdf_action nodes
-   avail lists: 2:1738,3:1305,4:137,5:562,6:123,7:7886,8:118,9:569,10:30,11:805
- 70407 multiletter control sequences out of 65536+600000
+   avail lists: 1:2,2:1738,3:1305,4:137,5:562,6:123,7:7886,8:118,9:569,10:30,11:805
+ 70401 multiletter control sequences out of 65536+600000
  92 fonts using 6551127 bytes
  113i,21n,112p,10739b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (13 pages, 516015 bytes).
+Output written on Praxisbericht.pdf (13 pages, 513894 bytes).
 
-PDF statistics: 279 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
+PDF statistics: 272 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
  49 named destinations out of 1000 (max. 131072)
  80 words of extra memory for PDF output out of 10000 (max. 100000000)
 

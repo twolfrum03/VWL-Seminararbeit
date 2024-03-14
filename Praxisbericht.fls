@@ -628,9 +628,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
 OUTPUT Inhalt/01_Standard/titelseite.aux
 INPUT ./Inhalt/01_Standard/titelseite.tex
 INPUT ./Inhalt/01_Standard/titelseite.tex
-INPUT ./Bilder/Logos/Logo_SAP.pdf
-INPUT ./Bilder/Logos/Logo_SAP.pdf
-INPUT ./Bilder/Logos/Logo_SAP.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmr12.tfm
